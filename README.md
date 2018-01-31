@@ -1,2 +1,2 @@
 # will62185.github.io
-Project Website
+Project website for Mobile App Development at FAU
