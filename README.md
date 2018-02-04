@@ -3,17 +3,17 @@
 
 #### What was used for the creation of this website: 
 
-1.**Text Editor:** IntelliJ IDEA IDE
+**1.Text Editor:** IntelliJ IDEA IDE
 
-2.**Template Source:** W3Schools Bootstrap Template ["Simply Me"](https://www.w3schools.com/bootstrap/bootstrap_theme_me.asp)
+**2.Template Source:** W3Schools Bootstrap Template ["Simply Me"](https://www.w3schools.com/bootstrap/bootstrap_theme_me.asp)
 
-3.**Icon Source:** Font Awesome: [Twitter, Github, Envelope](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
+**3.Icon Source:** Font Awesome: [Twitter, Github, Envelope](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
 
-4.**Color Matching:** Brand Colors: [Twitter, GitHub, Google](https://brandcolors.net/)
+**4.Color Matching:** Brand Colors: [Twitter, GitHub, Google](https://brandcolors.net/)
 
-5.**Tested Browsers:** Google Chrome using Developer Tools to test Desktop/Mobile responsiveness, and Safari.
+**5.Tested Browsers:** Google Chrome using Developer Tools to test Desktop/Mobile responsiveness, and Safari.
 
-6.**Hosted on Github:** It was good experience to use github for Source Control and to have a public facing page.
+**6.Hosted on Github:** It was good experience to use github for Source Control and to have a public facing page.
 
 <p>
 This project was fun, and it was a great experience to learn HTML, CSS, and BootStrap. Bootstrap has a very minimal learning 
