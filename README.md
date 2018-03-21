@@ -17,7 +17,7 @@
 
 <p>
 This project was fun, and it was a great experience to learn HTML, CSS, and BootStrap. Bootstrap has a very minimal learning 
-curve as does HTML and CSS. W3Schools and tackoverflow were my biggest resources when I was stuck on something I didn't know how
+curve as does HTML and CSS. W3Schools and stackoverflow were my biggest resources when I was stuck on something I didn't know how
 implement. 
 
 You can see my commits on github for the changes I made to the default template. To summarize, I didn't change the colors
