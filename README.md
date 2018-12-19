@@ -1,4 +1,4 @@
-# [will62185.github.io](https://will62185.github.io)
+# [Pizzatech.io](https://www.pizzatech.io)
 
 ### Personal website for Mobile App Development ISM4053 at FAU
 
